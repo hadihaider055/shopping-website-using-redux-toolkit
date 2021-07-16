@@ -1,0 +1,8 @@
+.checkout__items {
+  position: relative;
+}
+.notfound-img {
+  max-width: 400px;
+  position: relative;
+  margin-top: 100px;
+}

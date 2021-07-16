@@ -1,0 +1,10 @@
+.bg-img {
+  width: 100vw;
+  height: 500px;
+  left: 0;
+}
+@media (min-width: 200px) and (max-width: 500px) {
+  .bg-img {
+    height: 400px;
+  }
+}
